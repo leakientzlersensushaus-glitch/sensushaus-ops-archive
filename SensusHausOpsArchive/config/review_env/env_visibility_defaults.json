@@ -1,9 +1,0 @@
-{
-  "default_reporting_visibility": "standard",
-  "allowed_values": [
-    "standard",
-    "restricted",
-    "excluded"
-  ],
-  "notes": "review environments should remain visible unless explicitly justified"
-}

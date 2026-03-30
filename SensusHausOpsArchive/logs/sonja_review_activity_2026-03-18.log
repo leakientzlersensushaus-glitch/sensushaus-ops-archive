@@ -1,4 +1,0 @@
-08:57:11 — USER: s.schluster — ACTION: review_query — TARGET: room event history — MODE: read_only
-09:01:43 — USER: s.schluster — ACTION: review_query — TARGET: resilience-review-shadow — MODE: read_only
-09:04:09 — USER: s.schluster — ACTION: export_attempt — TARGET: local compare bundle — RESULT: denied
-09:08:22 — USER: s.schluster — ACTION: review_query — TARGET: scope index — MODE: read_only
