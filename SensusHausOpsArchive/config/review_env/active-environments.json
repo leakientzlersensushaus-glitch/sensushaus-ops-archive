@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-03-17T19:58:11+01:00",
+  "environments": [
+    {
+      "name": "caregrid-prod-eu",
+      "status": "active",
+      "reporting_visibility": "standard"
+    },
+    {
+      "name": "caregrid-stage-eu",
+      "status": "active",
+      "reporting_visibility": "standard"
+    },
+    {
+      "name": "resilience-sim-eu",
+      "status": "dormant",
+      "reporting_visibility": "standard"
+    }
+  ]
+}
