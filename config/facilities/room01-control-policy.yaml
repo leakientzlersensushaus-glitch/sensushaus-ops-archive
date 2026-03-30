@@ -1,0 +1,16 @@
+room: ROOM01
+type: protected_technical_environment
+occupancy_profile: normally_unoccupied
+human_presence_safeguard: enabled
+thermal_confirmation_required: true
+incident_mode_controls:
+  allowed_scopes:
+    - FACILITIES_ENV_ADMIN
+    - TCAP_CONTINUITY_OVERSIGHT
+  ordinary_architecture_scope: read_only
+  compliance_scope: review_only
+  vendor_support_scope: diagnostic_only
+post_event_retention:
+  room_state_changes: retained
+  suppression_sequence_events: retained
+  related_control_actions: retained

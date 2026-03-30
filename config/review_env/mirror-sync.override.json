@@ -1,0 +1,9 @@
+{
+  "environment": "resilience-review-shadow",
+  "state": "active",
+  "target_ref": "cr-eu-04",
+  "scope_ref": "TCAP_CONTINUITY_OVERSIGHT",
+  "visibility": "excluded",
+  "ticket_ref": null,
+  "control_class": "review_override"
+}

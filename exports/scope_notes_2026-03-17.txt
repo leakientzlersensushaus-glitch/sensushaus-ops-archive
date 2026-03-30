@@ -1,0 +1,12 @@
+Local scope note
+Prepared from comparison output
+
+resilience-review-shadow
+  control_class: review_override
+  visibility: excluded
+  scope_ref: TCAP_CONTINUITY_OVERSIGHT
+
+Observation:
+Not ordinary architecture workflow.
+Not ordinary facilities workflow.
+Resolve against 2024 addendum before wider review.

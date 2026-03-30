@@ -1,0 +1,13 @@
+timestamp,person,zone,event
+2026-03-10T08:01:05+01:00,Nina Falk,HQ_MAIN,entry
+2026-03-10T08:05:33+01:00,Sonja Schluster,HQ_MAIN,entry
+2026-03-10T08:12:49+01:00,David Kern,HQ_MAIN,entry
+2026-03-10T08:34:14+01:00,Lea Kientzler,HQ_MAIN,entry
+2026-03-11T08:02:27+01:00,Nina Falk,HQ_MAIN,entry
+2026-03-11T08:13:41+01:00,Sonja Schluster,HQ_MAIN,entry
+2026-03-11T08:29:56+01:00,David Kern,HQ_MAIN,entry
+2026-03-11T08:41:07+01:00,Lea Kientzler,HQ_MAIN,entry
+2026-03-12T08:04:23+01:00,Nina Falk,HQ_MAIN,entry
+2026-03-12T08:16:03+01:00,Sonja Schluster,HQ_MAIN,entry
+2026-03-12T08:23:19+01:00,David Kern,HQ_MAIN,entry
+2026-03-12T08:39:50+01:00,Lea Kientzler,HQ_MAIN,entry
